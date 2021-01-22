@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Strange Case of Dr Jekyll and Mr Hyde is a Gothic novella by Scottish author Robert Louis Stevenson, first published in 1886. The work is also known as The Strange Case of Jekyll Hyde, Dr Jekyll and Mr Hyde, or simply Jekyll and Hyde. It is about a London legal practitioner named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr Henry Jekyll,and the evil Edward Hyde. The novella's impact is such that it has become a part of the language, with the vernacular phrase "Jekyll and Hyde" referring to persons with an unpredictably dual nature: outwardly good, but sometimes shockingly evil.
